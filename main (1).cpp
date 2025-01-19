@@ -1,4 +1,4 @@
-#include <iostream> //цикл с пред и пост
+#include <iostream> //цикл с пред и пост лаба
 #include <cmath>
 
 int main() {
